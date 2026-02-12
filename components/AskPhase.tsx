@@ -19,7 +19,7 @@ const RUNAWAY_PHRASES = [
   "Oh really, Adam? 🤨",
   "Think again, Adam 🤔",
   "Nooo Adam 🥺",
-  "Not today, Adam ",
+  "Not today, Adam 🫶🏻",
   "Adam, why are you making this hard 😩",
   "Adam, click YES instead! ",
   "Wrong button, Adam! 🚫",
