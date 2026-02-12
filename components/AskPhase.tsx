@@ -9,6 +9,7 @@ interface AskPhaseProps {
 const ASK_PAGE_IMAGE = "https://i.ibb.co/LzhW90mW/IMG-4234.jpg";
 
 const RUNAWAY_PHRASES = [
+  "Don't break my heart baby Adam 💔",
   "Nope, Adam 🙅‍♂️",
   "Nice try, Adam 😉",
   "You wish, Adam ",
