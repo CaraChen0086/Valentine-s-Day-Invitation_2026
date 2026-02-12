@@ -9,16 +9,22 @@ interface AskPhaseProps {
 const ASK_PAGE_IMAGE = "https://i.ibb.co/LzhW90mW/IMG-4234.jpg";
 
 const RUNAWAY_PHRASES = [
+  "System error. Please try again later. 🖥️",
   "Don't break my heart baby Adam 💔",
   "Nope, Adam 🙅‍♂️",
   "Nice try, Adam 😉",
   "You wish, Adam ",
   "Dream on, Adam 😴",
+  "Baby Adam, are you sure you’re clicking the right button?",
   "Catch me first, Adam 🏃‍♂️",
+  "Wait… you actually clicked NO, Adam? 🥺",
+  "This website only accepts YES. ✅",
   "Not so fast, Adam ",
   "Oh really, Adam? 🤨",
+  "Adam… that hurt a little 💔",
   "Think again, Adam 🤔",
   "Nooo Adam 🥺",
+  "2000 push ups!!! 🏋️‍♂️",
   "Not today, Adam 🫶🏻",
   "Adam, why are you making this hard 😩",
   "Adam, click YES instead! ",
